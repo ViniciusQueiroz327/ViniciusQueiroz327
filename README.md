@@ -28,13 +28,91 @@
 
 ## My best projects:
 
-| Pets | MyPokedex | MeuCurriculo |
-|------|-----------|--------------|
-| [![Pets](https://img.shields.io/badge/Pets-Social%20Network%20for%20Pets-black?style=for-the-badge&logo=github)](https://github.com/ViniciusQueiroz327/Pets) | [![MyPokedex](https://img.shields.io/badge/MyPokedex-Pokedex%20WEB-black?style=for-the-badge&logo=github)](https://github.com/ViniciusQueiroz327/MyPokedex) | [![MeuCurriculo](https://img.shields.io/badge/MeuCurriculo-Curr%C3%ADculo%20Digital-black?style=for-the-badge&logo=github)](https://github.com/ViniciusQueiroz327/MeuCurriculo) |
+<style>
+.card {
+  border: 2px solid #E94D5F;
+  border-radius: 10px;
+  padding: 12px;
+  width: 250px;
+  background-color: #0d1117;
+}
+.card-title {
+  color: #E94D5F;
+  font-weight: bold;
+  font-size: 18px;
+}
+.card-desc {
+  color: #ddd;
+  font-size: 13px;
+  margin-top: 6px;
+}
+.lang {
+  margin-top: 10px;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: #fff;
+}
+</style>
 
-| GitFind | Plenna | CalculadoraReact |
-|---------|--------|------------------|
-| [![GitFind](https://img.shields.io/badge/GitFind-GitHub%20Searcher-black?style=for-the-badge&logo=github)](https://github.com/ViniciusQueiroz327/GitFind) | [![Plenna](https://img.shields.io/badge/Plenna-React%20App-black?style=for-the-badge&logo=github)](https://github.com/ViniciusQueiroz327/Plenna) | [![CalculadoraReact](https://img.shields.io/badge/CalculadoraReact-React%20App-black?style=for-the-badge&logo=github)](https://github.com/ViniciusQueiroz327/CalculadoraReact) |
+<table>
+<tr>
+<td>
+
+<div class="card">
+  <a href="https://github.com/ViniciusQueiroz327/Pets" class="card-title">🐾 Pets</a>
+  <div class="card-desc">Social network for pets only.</div>
+  <div class="lang">🟨 JavaScript</div>
+</div>
+
+</td><td>
+
+<div class="card">
+  <a href="https://github.com/ViniciusQueiroz327/MyPokedex" class="card-title">📘 MyPokedex</a>
+  <div class="card-desc">Pokedex criada para treinar desenvolvimento WEB.</div>
+  <div class="lang">🟨 JavaScript</div>
+</div>
+
+</td><td>
+
+<div class="card">
+  <a href="https://github.com/ViniciusQueiroz327/MeuCurriculo" class="card-title">📄 MeuCurriculo</a>
+  <div class="card-desc">Meu currículo digital.</div>
+  <div class="lang">🟣 CSS</div>
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<div class="card">
+  <a href="https://github.com/ViniciusQueiroz327/GitFind" class="card-title">🔍 GitFind</a>
+  <div class="card-desc">Buscador de perfis GitHub usando API pública.</div>
+  <div class="lang">🟨 JavaScript</div>
+</div>
+
+</td><td>
+
+<div class="card">
+  <a href="https://github.com/ViniciusQueiroz327/Plenna" class="card-title">🩺 Plenna</a>
+  <div class="card-desc">App desenvolvido em React + TypeScript.</div>
+  <div class="lang">🔵 TypeScript</div>
+</div>
+
+</td><td>
+
+<div class="card">
+  <a href="https://github.com/ViniciusQueiroz327/CalculadoraReact" class="card-title">🧮 CalculadoraReact</a>
+  <div class="card-desc">Calculadora simples feita em React.</div>
+  <div class="lang">🟨 JavaScript</div>
+</div>
+
+</td>
+</tr>
+</table>
 
 
 <h2 align="center">My habilities:</h2>
