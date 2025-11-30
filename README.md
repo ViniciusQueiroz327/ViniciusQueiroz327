@@ -28,91 +28,184 @@
 
 ## My best projects:
 
+## 🚀 Projetos em Destaque
+
 <style>
-  .card {
-    border: 2px solid #E94D5F;
-    border-radius: 10px;
-    padding: 12px;
-    width: 250px;
-    background-color: #0d1117;
-  }
-  .card-title {
-    color: #E94D5F;
-    font-weight: bold;
-    font-size: 18px;
-  }
-  .card-desc {
-    color: #ddd;
-    font-size: 13px;
-    margin-top: 6px;
-  }
-  .lang {
-    margin-top: 10px;
-    font-size: 14px;
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    color: #fff;
-  }
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.card-adv {
+  border: 2px solid #E94D5F;
+  border-radius: 14px;
+  padding: 18px;
+  width: 300px;
+  background-color: #0d1117;
+  box-shadow: 0 0 10px #e94d5f55;
+  transition: transform .25s ease, box-shadow .25s ease;
+}
+.card-adv:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 0 16px #e94d5faa;
+}
+
+.card-title-adv {
+  color: #E94D5F;
+  font-weight: bold;
+  font-size: 22px;
+  text-decoration: none;
+}
+
+.card-desc-adv {
+  color: #cfcfcf;
+  font-size: 14px;
+  margin: 6px 0 14px 0;
+}
+
+.badges {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.badge {
+  padding: 4px 8px;
+  border-radius: 6px;
+  background-color: #1e1e1e;
+  color: #fff;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  border: 1px solid #444;
+}
+
+.icon {
+  width: 16px;
+  height: 16px;
+}
 </style>
 
-<table>
-  <tr>
-  <td>
-  
-  <div class="card">
-    <a href="https://github.com/ViniciusQueiroz327/Pets" class="card-title">🐾 Pets</a>
-    <div class="card-desc">Social network for pets only.</div>
-    <div class="lang">🟨 JavaScript</div>
+<div class="grid">
+
+<!-- Pets -->
+<div class="card-adv">
+  <a href="https://github.com/ViniciusQueiroz327/Pets" class="card-title-adv">🐾 Pets</a>
+  <div class="card-desc-adv">Rede social exclusiva para pets.</div>
+
+  <div class="badges">
+    <div class="badge">
+      ⭐ <span>Stars</span>
+    </div>
+    <div class="badge">
+      🍴 <span>Forks</span>
+    </div>
+    <div class="badge">
+      <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+      JavaScript
+    </div>
   </div>
-  
-  </td><td>
-  
-  <div class="card">
-    <a href="https://github.com/ViniciusQueiroz327/MyPokedex" class="card-title">📘 MyPokedex</a>
-    <div class="card-desc">Pokedex criada para treinar desenvolvimento WEB.</div>
-    <div class="lang">🟨 JavaScript</div>
+</div>
+
+<!-- MyPokedex -->
+<div class="card-adv">
+  <a href="https://github.com/ViniciusQueiroz327/MyPokedex" class="card-title-adv">📘 MyPokedex</a>
+  <div class="card-desc-adv">Pokedex criada para treinar consumo de APIs.</div>
+
+  <div class="badges">
+    <div class="badge">
+      ⭐ <span>Stars</span>
+    </div>
+    <div class="badge">
+      🍴 <span>Forks</span>
+    </div>
+    <div class="badge">
+      <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+      JavaScript
+    </div>
   </div>
-  
-  </td><td>
-  
-  <div class="card">
-    <a href="https://github.com/ViniciusQueiroz327/MeuCurriculo" class="card-title">📄 MeuCurriculo</a>
-    <div class="card-desc">Meu currículo digital.</div>
-    <div class="lang">🟣 CSS</div>
+</div>
+
+<!-- MeuCurriculo -->
+<div class="card-adv">
+  <a href="https://github.com/ViniciusQueiroz327/MeuCurriculo" class="card-title-adv">📄 MeuCurriculo</a>
+  <div class="card-desc-adv">Currículo digital estilizado.</div>
+
+  <div class="badges">
+    <div class="badge">
+      ⭐ <span>Stars</span>
+    </div>
+    <div class="badge">
+      🍴 <span>Forks</span>
+    </div>
+    <div class="badge">
+      <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+      CSS
+    </div>
   </div>
-  
-  </td>
-  </tr>
-  
-  <tr>
-  <td>
-  
-  <div class="card">
-    <a href="https://github.com/ViniciusQueiroz327/GitFind" class="card-title">🔍 GitFind</a>
-    <div class="card-desc">Buscador de perfis GitHub usando API pública.</div>
-    <div class="lang">🟨 JavaScript</div>
+</div>
+
+<!-- GitFind -->
+<div class="card-adv">
+  <a href="https://github.com/ViniciusQueiroz327/GitFind" class="card-title-adv">🔍 GitFind</a>
+  <div class="card-desc-adv">Buscador de perfis GitHub usando API pública.</div>
+
+  <div class="badges">
+    <div class="badge">
+      ⭐ <span>Stars</span>
+    </div>
+    <div class="badge">
+      🍴 <span>Forks</span>
+    </div>
+    <div class="badge">
+      <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+      JavaScript
+    </div>
   </div>
-  
-  </td><td>
-  
-  <div class="card">
-    <a href="https://github.com/ViniciusQueiroz327/Plenna" class="card-title">🩺 Plenna</a>
-    <div class="card-desc">App desenvolvido em React + TypeScript.</div>
-    <div class="lang">🔵 TypeScript</div>
+</div>
+
+<!-- Plenna -->
+<div class="card-adv">
+  <a href="https://github.com/ViniciusQueiroz327/Plenna" class="card-title-adv">🩺 Plenna</a>
+  <div class="card-desc-adv">Aplicação React + TypeScript.</div>
+
+  <div class="badges">
+    <div class="badge">
+      ⭐ <span>Stars</span>
+    </div>
+    <div class="badge">
+      🍴 <span>Forks</span>
+    </div>
+    <div class="badge">
+      <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+      TypeScript
+    </div>
   </div>
-  
-  </td><td>
-  
-  <div class="card">
-    <a href="https://github.com/ViniciusQueiroz327/CalculadoraReact" class="card-title">🧮 CalculadoraReact</a>
-    <div class="card-desc">Calculadora simples feita em React.</div>
-    <div class="lang">🟨 JavaScript</div>
+</div>
+
+<!-- CalculadoraReact -->
+<div class="card-adv">
+  <a href="https://github.com/ViniciusQueiroz327/CalculadoraReact" class="card-title-adv">🧮 CalculadoraReact</a>
+  <div class="card-desc-adv">Calculadora simples feita em React.</div>
+
+  <div class="badges">
+    <div class="badge">
+      ⭐ <span>Stars</span>
+    </div>
+    <div class="badge">
+      🍴 <span>Forks</span>
+    </div>
+    <div class="badge">
+      <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+      JavaScript
+    </div>
   </div>
-  
-  </td>
-  </tr>
-</table>
+</div>
+
+</div>
 
 
 <h2 align="center">My habilities:</h2>
