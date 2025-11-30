@@ -36,6 +36,62 @@
 |---------|--------|------------------|
 | [![GitFind](https://img.shields.io/badge/GitFind-GitHub%20Searcher-black?style=for-the-badge&logo=github)](https://github.com/ViniciusQueiroz327/GitFind) | [![Plenna](https://img.shields.io/badge/Plenna-React%20App-black?style=for-the-badge&logo=github)](https://github.com/ViniciusQueiroz327/Plenna) | [![CalculadoraReact](https://img.shields.io/badge/CalculadoraReact-React%20App-black?style=for-the-badge&logo=github)](https://github.com/ViniciusQueiroz327/CalculadoraReact) |
 
+<h3 align="center">My best projects:</h3>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Pets</th>
+    <th>MyPokedex</th>
+    <th>MeuCurriculo</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ViniciusQueiroz327/Pets">
+        <img src="https://img.shields.io/badge/Pets-Social%20Network%20for%20Pets-black?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ViniciusQueiroz327/MyPokedex">
+        <img src="https://img.shields.io/badge/MyPokedex-Pokedex%20WEB-black?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ViniciusQueiroz327/MeuCurriculo">
+        <img src="https://img.shields.io/badge/MeuCurriculo-Curr%C3%ADculo%20Digital-black?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <th>GitFind</th>
+    <th>Plenna</th>
+    <th>CalculadoraReact</th>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/ViniciusQueiroz327/GitFind">
+        <img src="https://img.shields.io/badge/GitFind-GitHub%20Searcher-black?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ViniciusQueiroz327/Plenna">
+        <img src="https://img.shields.io/badge/Plenna-React%20App-black?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ViniciusQueiroz327/CalculadoraReact">
+        <img src="https://img.shields.io/badge/CalculadoraReact-React%20App-black?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
 <h2 align="center">My habilities:</h2>
 
 <h3 align="center">HyperText Markup Language and Styles...</h3> 
