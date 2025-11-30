@@ -26,13 +26,16 @@
 
 <h3 align="center">My best projects:</h3>
 
+## My best projects:
+
 | Pets | MyPokedex | MeuCurriculo |
-| --------- | --------- | --------- |
-|[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusQueiroz327&repo=Pets&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ViniciusQueiroz327/Pets) | [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusQueiroz327&repo=MyPokedex&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ViniciusQueiroz327/MyPokedex) | [![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusQueiroz327&repo=MeuCurriculo&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ViniciusQueiroz327/MeuCurriculo)|
+|------|-----------|--------------|
+| [![Pets](https://img.shields.io/badge/Pets-Social%20Network%20for%20Pets-black?style=for-the-badge&logo=github)](https://github.com/ViniciusQueiroz327/Pets) | [![MyPokedex](https://img.shields.io/badge/MyPokedex-Pokedex%20WEB-black?style=for-the-badge&logo=github)](https://github.com/ViniciusQueiroz327/MyPokedex) | [![MeuCurriculo](https://img.shields.io/badge/MeuCurriculo-Curr%C3%ADculo%20Digital-black?style=for-the-badge&logo=github)](https://github.com/ViniciusQueiroz327/MeuCurriculo) |
 
 | GitFind | Plenna | CalculadoraReact |
-| --------- | --------- | --------- |
-|[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusQueiroz327&repo=GitFind&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ViniciusQueiroz327/GitFind) | [![Repo 5](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusQueiroz327&repo=Plenna&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ViniciusQueiroz327/Plenna) | [![Repo 6](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusQueiroz327&repo=CalculadoraReact&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ViniciusQueiroz327/CalculadoraReact) |
+|---------|--------|------------------|
+| [![GitFind](https://img.shields.io/badge/GitFind-GitHub%20Searcher-black?style=for-the-badge&logo=github)](https://github.com/ViniciusQueiroz327/GitFind) | [![Plenna](https://img.shields.io/badge/Plenna-React%20App-black?style=for-the-badge&logo=github)](https://github.com/ViniciusQueiroz327/Plenna) | [![CalculadoraReact](https://img.shields.io/badge/CalculadoraReact-React%20App-black?style=for-the-badge&logo=github)](https://github.com/ViniciusQueiroz327/CalculadoraReact) |
+
 
 <h2 align="center">My habilities:</h2>
 
